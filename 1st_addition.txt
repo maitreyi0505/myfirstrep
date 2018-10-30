@@ -1,3 +1,8 @@
 this is the first addition to the document..
 i guess this can be a piece of code  o_O
 bye!
+
+
+
+now ive added a few more lines!!
+(thiis is the new change   2nd committ)
